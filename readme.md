@@ -12,6 +12,9 @@
 5. Depois, para popular o banco (neste caso, utilizei o faker), utilize o comando:
 **php artisan db:seed**
 
+6. Iniciar o projeto laravel com o comando:
+**php artisan serve**
+
 [Para testar os serviços da API, utilizei o Postman](https://www.getpostman.com)
 
 # **ENDPOINTS**
